@@ -14,7 +14,7 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=Bruce-CodeMan&theme=dark&show_icons=true" width="45%" alt="Savuer's github stats"/>
 	</a>
     <a href="https://github.com/Bruce-CodeMan" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce-CodeMan&layout=compact&hide=html&theme=dark" width="45%" alt="Bruce's github top skills"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce-CodeMan&hide=html&theme=dark" width="45%" alt="Bruce's github top skills"/>
 	</a>
     <a href="https://github.com/Bruce-CodeMan" target="_blank">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruce-CodeMan&theme=highcontrast" width="45%" alt="Bruce's github readme streak stats"/>

@@ -42,4 +42,10 @@
     <img src="./images/reactjs.svg" width="40" height="40"/>
     <img src="./images/flask.svg" width="40" height="40"/>
     <img src="./images/graphql.svg" width="40" height="40"/>
+    <img src="./images/redis.svg" width="40" height="40"/>
+    <img src="./images/postman.svg" width="40" height="40"/>
+    <img src="./images/nestjs.svg" width="40" height="40"/>
+    <img src="./images/nextjs.svg" width="40" height="40"/>
+    <img src="./images/prometheus.svg" width="40" height="40"/>
+    <img src="./images/tailwindcss.svg" width="40" height="40"/>
 </p>

@@ -11,14 +11,15 @@
 
 <p align="center">
     <a href="https://github.com/Bruce-CodeMan" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api?username=Bruce-CodeMan&theme=dark&show_icons=true" width="45%" alt="Savuer's github stats"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=Bruce-CodeMan&theme=synthwave&show_icons=true" width="45%" alt="Savuer's github stats"/>
+	</a>
+  <a href="https://github.com/Bruce-CodeMan" target="_blank">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruce-CodeMan&theme=synthwave" width="45%" alt="Bruce's github readme streak stats"/>
 	</a>
     <a href="https://github.com/Bruce-CodeMan" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce-CodeMan&hide=html&theme=dark" width="45%" alt="Bruce's github top skills"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce-CodeMan&hide=html&theme=ambient_gradient&layout=compact" width="45%" alt="Bruce's github top skills"/>
 	</a>
-    <a href="https://github.com/Bruce-CodeMan" target="_blank">
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruce-CodeMan&theme=highcontrast" width="45%" alt="Bruce's github readme streak stats"/>
-	</a>
+    
 </p>
 
 ### Languages and Tools
